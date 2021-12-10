@@ -1,2 +1,2 @@
 # Foxyn-Installer
-Installer for Foxyn modded
+Installer for the modded version of the Foxyn minecraft server
